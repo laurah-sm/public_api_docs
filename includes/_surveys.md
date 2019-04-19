@@ -291,6 +291,15 @@ s.get(url)
 
  * `GET`: Returns an expanded survey resource with a `pages` element containing a list of all page objects, each containing a list of questions objects
 
+
+###/surveys/{id}/collaborators
+
+>Definition
+
+```
+POST https://api.surveymonkey.net/v3/surveys/{survey_id}/collaborators
+```
+
 ###/survey_categories
 
 >Definition

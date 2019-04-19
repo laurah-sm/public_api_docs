@@ -278,5 +278,6 @@ To unauthorize an app:
 |1030|413 Request Entity Too Large|The requested entity is too large, it can not be returned.|
 |1050|500 Internal Server Error|Oh bananas! We couldn't process your request.|
 |1051|503 Internal Server Error|Service unreachable. Please try again later.|
+|1054| Bad Gateway Error | Network was unable to connect to server.
 ​
 ​
